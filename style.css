@@ -1,0 +1,110 @@
+body
+{
+    background-color: rgb(36, 36, 36); margin: 0px; color: aliceblue; font-family: 'Noto Sans', sans-serif;
+}
+
+
+header
+{
+    background-color: black; padding: 10px;
+}
+
+
+#logo
+{
+    width: 200px;
+}
+
+ .yt
+{
+    margin: auto; padding: 30px;
+    
+} 
+
+/* .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 60%; height: 60%; } */
+
+nav
+{
+    float: right;
+}
+
+li
+{
+    padding-right: 25px;
+}
+
+a {
+    text-decoration: none; color: aliceblue;
+}
+
+.pstr > img
+{
+    width:150px; padding-left: 20px;
+    
+}
+
+.pstr
+{
+    overflow: auto; display: flex; padding-left: 30px;
+    
+}
+
+a > img
+{
+    width: 150px;
+    padding-right: 10px;
+}
+
+h2
+{
+color: yellow; padding-left: 30px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+.pstr::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+  }
+
+footer
+{
+    background-color: black;
+    display: flex;
+    margin-top: 30px;
+    bottom: 0px;
+    width: 100%;
+}
+
+
+footer > p
+{
+    font-size: 10px;
+    padding: 5px;
+    margin-left: 5px;
+} 
+
+#footl
+{
+    padding: 5px;
+    margin: auto;
+    margin-right: 1px;
+    font-size: 12px;
+}
+
+.review
+{
+    padding: 30px;
+    display: flex;
+}
+
+h1
+{
+   color: yellow; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; margin: 0;
+}
+
+.info
+{
+    padding-left: 30px;
+}
+
+.checked {
+    color: orange;
+  }
