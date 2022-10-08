@@ -1,6 +1,5 @@
 # MoviesRev
 
-# Project Title
 
 MoviesRev is my college project. It is basically a static webpage for movie reviews (kind of like the IMDB).
 
