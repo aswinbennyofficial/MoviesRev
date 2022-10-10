@@ -1,4 +1,4 @@
-# MoviesRev
+
 
 
 MoviesRev is my college project. It is basically a static webpage for movie reviews (kind of like the IMDB).
@@ -25,6 +25,7 @@ https://moviesrev.netlify.app/
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/gtxxCfw.png)
-![App Screenshot](https://i.imgur.com/pp8eZqW.png)
-
+![App Screenshot](https://i.imgur.com/QRXr3CE.png)
+![App Screenshot](https://i.imgur.com/hOnEZdj.png)
+![App Screenshot](https://i.imgur.com/jok0aTK.png)
+![App Screenshot](https://i.imgur.com/PILMgg8.png)
