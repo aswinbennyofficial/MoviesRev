@@ -1,0 +1,45 @@
+.hero{
+    display: flex;flex-wrap: wrap; justify-content: center; margin: 0px; overflow: auto; padding-top: 20px; padding-left: 10px;padding-right: 10px;
+}
+
+.yt{
+    margin: 0px; flex-grow: 2; padding-left: 10px;
+}
+
+.lazy{
+    width: 100%;
+}
+
+.hero > img{
+    height: 314px;padding-left: 10px; padding-left: 10px;
+}
+
+.pstr{
+    display: flex; overflow: auto; 
+    
+}
+
+.pstr > a >img{
+    width: 200px; padding-left: 10px; padding-bottom: 20px;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+@media only screen and (max-width:600px) {
+
+    .hero > img{
+        display:none;
+    }
+    
+}
+
+.info{
+    padding: 20px;
+    padding-top: 0px;
+}
+
+.checked {
+    color: orange;
+  }
