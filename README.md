@@ -23,9 +23,7 @@ https://moviesrev.netlify.app/
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
 
-## Screenshots
+## Preview
 
-![App Screenshot](https://i.imgur.com/QRXr3CE.png)
-![App Screenshot](https://i.imgur.com/hOnEZdj.png)
-![App Screenshot](https://i.imgur.com/jok0aTK.png)
-![App Screenshot](https://i.imgur.com/PILMgg8.png)
+![App Screenshot](https://i.imgur.com/A2dAO6f.mp4)
+
