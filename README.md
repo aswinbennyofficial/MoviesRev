@@ -25,5 +25,5 @@ https://moviesrev.netlify.app/
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/110408942/202965822-73650afe-2925-4cad-962f-ac0b81f24a5a.png)
+![image](https://user-images.githubusercontent.com/110408942/202965920-5c1b97ff-1aaf-461c-9208-5e07b2badcef.png)
 
