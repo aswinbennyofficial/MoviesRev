@@ -25,6 +25,5 @@ https://moviesrev.netlify.app/
 
 ## Preview
 
-![App Screenshot](https://i.imgur.com/A2dAO6f.mp4)
+![image](https://user-images.githubusercontent.com/110408942/202965822-73650afe-2925-4cad-962f-ac0b81f24a5a.png)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/A2dAO6f" data-context="false" ><a href="//imgur.com/a/A2dAO6f"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
